@@ -13,3 +13,5 @@ error: ChildPrimitiveJavaClass is not abstract and does not override abstract me
 public class ChildPrimitiveJavaClass extends AbstractPrimitiveKotlinClass {
        ^
 ```
+
+See https://youtrack.jetbrains.com/issue/KT-46650
